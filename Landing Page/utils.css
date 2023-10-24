@@ -1,0 +1,58 @@
+.min-h-screen{
+    min-height: 100vh;
+}
+.bg-red{
+    background-color: rgb(244, 240, 240);
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.items-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center ;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.font-bold{
+    font-weight: bold;
+}
+.flex-col{
+    flex-direction: column;
+}
+.my-1{
+    margin-top: 13px;
+    margin-bottom: 13px;
+}
+.my-2{
+    margin-top: 26px;
+    margin-bottom: 26px;
+}
+.px-2{
+    padding-left: 13px;
+    padding-right: 13px;
+}
+.text-blue{
+    color: rgb(29, 29, 159);
+}
+.btn{
+    padding: 4px 12px;
+    border: 2px solid white;
+    color: white;
+    background-color: rgb(122, 122, 226);
+    border-radius: 6px;
+    cursor: pointer;
+}
+.overflow-x-hidden{
+    overflow-x: hidden;
+
+}
+.text-center{
+    text-align: center;
+}

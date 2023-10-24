@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap');
+
+
+*
+{
+    margin: 0;
+    padding: 0
+    ;
+}
+.container{
+    max-width: 80vw;
+}
+.navbar li{
+    list-style: none;
+    margin: 0 12px;
+}
+
+.navbar
+{
+    display: flex;
+    height: 67px;
+    font-family: 'Roboto', sans-serif;
+
+}
+.topleft{
+    width: 50%;
+ 
+}
+.topright{
+    width: 50%;
+
+}
+.section1{
+   max-height: 100vh;
+}
+.justify-center
+{
+    justify-content: center;
+}
+.logo{
+    font-size: 1.5rem;
+}
+.dumble{
+    width: 80px;
+
+
+}
+.topright .gym{
+    width: 456px;
+}
+
+
+.section1 h1{
+    font-size: 2rem;
+    color: yellowgreen;
+}
+.section2{
+    padding-left: 63px;
+    padding-right: 63px;
+    text-align: center;
+    
+    
+}
+.section2 h1{
+    font-size: 2rem;
+}
+.box{
+    padding: 8px 0;
+    margin: 10px 85px;
+    min-width: 10vw;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+.box ul{
+    list-style: none;
+}
+.box ul li{
+    margin: 12px 2px;
+    text-align: center;
+}
+.btn2{
+    color: beige;
+    background: black;
+    border-radius: 5px;
+    padding: 4px 12px;
+    cursor: pointer;
+    border: 2px solid black;
+}
+footer{
+    padding: 23px;
+    text-align: center;
+}
+header ul li .p:hower{
+    color: red;
+}
+.gym{
+    justify-content: center;
+    margin: 28px;
+    border-radius: 10px;
+}
